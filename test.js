@@ -7,6 +7,7 @@ console.log("FF")
 console.log("GG")
 console.log("22")
 console.log("223")111
-22222
+2222
 3333
 5555
+4444
